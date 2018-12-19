@@ -10,3 +10,5 @@ export const RolePicker = (props: Props) => <div className="container">
         Assign roles randomly but fairly
     </h2>
 </div>;
+
+export default RolePicker;

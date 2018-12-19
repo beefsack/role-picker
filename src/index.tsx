@@ -1,9 +1,9 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-import { RolePicker } from "./components/RolePicker";
+import Container from "./components/container";
 
 ReactDOM.render(
-    <RolePicker />,
+    <Container />,
     document.getElementById("content")
 );
